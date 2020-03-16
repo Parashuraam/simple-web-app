@@ -1,2 +1,2 @@
 # simple-web-app
-Mavenazed  Simple Java web application
+Mavenaized  Simple Java web application
